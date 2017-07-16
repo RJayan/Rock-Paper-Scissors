@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4b4bd806af0542c3601e7ecc2ccd691b00a157a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_cdd0c6c764bedf4b48e0823ca77c10e36010994e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b1f94e0441c4e780022982da7f1c48d8716d22da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_de345afc68cedd8897be24447af9f715e6b910ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5e52af76b2e4f94b6fd297ef7537ab18e6007dd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_d1fac193b5329350da26d438e7b49d02af37fddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d90831ddb8aff6f2e96d9f8f31883f93ad0210da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_cb910ea1465d628e6b202015c95429fc919e4c8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS\android\RockPaperScissors\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_99707a17191e5ef295d1d9e37e21f0f71a4d0e60\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\eb4ba6b9ef698b219a2a69c7ac4492c503251f35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_9792bff19a020051a436efdeab0a945d3b94dd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\895da55a9620706f3c8c1f96e5efca71797f38e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_db56b201a3003934e08f34ff77ddd7b0f93d63b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4799105701937ee88c79d76ac9ce9a41a0a7dffd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_964a118f6469e8a2a9d184d58d5d70925c2f358b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS\android\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_cff47bccb9a91eaceb2f2792a91a71ddd9d463e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AS\android\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_bf0cbf28319dc7826cb6d2d78b849fded0993001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\742a109a8f3f05d0306327a452e07e0d06932612\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_3170036dfcc1ca42753c61db5cd14c4c4d794908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\51e6ff600462923d830ffff872761ce224a992ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_bcb3465529516e1bfe772af225baaa4b8e4fadfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\58264047114a350c331d0bdff638c929399270bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\pre-dexed\debug\classes_03b9c16235b8f1372e9f5c7d147239fd96a2e4a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS\android\RockPaperScissors\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c0b0f896e5431ff5373a3f1efe090888f531156">
+        <dex dex="G:\AS\android\RockPaperScissors\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5e4f8be42f8ca1b36fae235bc5ac2fe6d45222f2\classes.dex" />
+    </item>
+
+</items>
